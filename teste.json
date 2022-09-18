@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Adriana Silva",  
+    "idade": 49,
+    "esta_trabaljando": true,
+    "detalhes_profissao": {
+      "profissao": "Programadora",
+      "empresa": "DBC"
+    },
+    "hobbies": [1, "viajar", true]
+  }
+]
